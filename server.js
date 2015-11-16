@@ -10,4 +10,6 @@ var server = http.createServer(function(req, res) {
     serve(req, res, done);
 });
 
-server.listen(8023);
+var port = process.env.PORT || 8023;
+server.listen(port);
+console.log("Server started on port " + port);
