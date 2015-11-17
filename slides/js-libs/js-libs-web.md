@@ -33,4 +33,5 @@
 </table>
 
 Note:
-+ Uses SVGs or the HTML5 canvas
++ Can be full-featured libraries
++ MVC/MVVM
