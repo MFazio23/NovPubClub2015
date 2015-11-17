@@ -14,3 +14,7 @@ switch (switchTest) {
 }
 ```
 
+Note:
++ _switch_ statement cases are type-dependent
+    + Effectively using === instead of ==
+
