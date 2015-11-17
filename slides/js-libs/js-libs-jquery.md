@@ -9,3 +9,7 @@ $("#red-div").css('background-color', 'red');
 var redDiv = document.getElementById('red-div');
 redDiv.style['background-color'] = 'red';
 ```
+
++ De facto standard
++ DOM manipulation
++ Query selectors

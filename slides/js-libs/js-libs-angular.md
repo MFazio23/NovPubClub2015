@@ -12,3 +12,7 @@ angular
         };
     });
 ```
+
+Note:
++ Can be considered a full framework
++ Has templating
