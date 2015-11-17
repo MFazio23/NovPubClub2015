@@ -6,3 +6,5 @@ Note:
 + AJAX
 + JS "gotchas"
 + JS libraries
++ Why do we use JS?
+    + Standardized on all modern browsers
