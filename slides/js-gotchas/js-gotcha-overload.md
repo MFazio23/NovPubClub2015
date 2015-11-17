@@ -13,7 +13,7 @@ function getTitle(name, gender) {
     return prefix + ' ' + name
 }
 
-var title = getTitle('Dr.','John', 'M');
+var title = getTitle('Dr.','John Ptacek', 'M');
 console.log(title);
 ```
 

@@ -17,3 +17,4 @@ Note:
 + Equality operator will perform a type conversion
 + Identity operator will _not_ perform a type conversion
     + Compares types and values
++ https://dorey.github.io/JavaScript-Equality-Table/
