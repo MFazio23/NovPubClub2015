@@ -8,4 +8,7 @@ Note:
 + JS Math/Date are based on Java classes
 + Mainly a marketing gimmick
     + JS was told to have object and "look like Java"
-+ Oracle does own the copyright for the "JavaScript" name, though.
++ Sun was an early primary supporter with Netscape, though
+    + Oracle now owns the copyright for the "JavaScript" name.
++ Touted as similar to Visual Basic
+    + Easy for non-programmers to pick up

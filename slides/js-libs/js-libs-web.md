@@ -1,5 +1,5 @@
 #JavaScript Libraries
-##Graphical/Visualizations
+##Website (MVC, MVVM, etc)
 
 <table style="font-size: 32px;">
     <tr>

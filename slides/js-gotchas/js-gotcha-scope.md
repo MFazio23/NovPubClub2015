@@ -18,3 +18,5 @@ console.log("Outside =", a, b); //Outside = 23 10
 Note:
 + JavaScript has function-level scope
     + Blocks, such as _if_ statements, do not create a new scope.
++ Leaving out _var_ adds a variable to the global scope
+    + Same as _window.<variable name>_
