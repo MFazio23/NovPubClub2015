@@ -1,6 +1,6 @@
 #JavaScript Dev Tools
-<img src="/img/chrome-dev-tools.png"/>
-<img src="/img/firefox-dev-tools.png" />
+<img src="/img/chrome-dev-tools.png" width="400"/>
+<img src="/img/firefox-dev-tools.png" width="400" />
 
 Note:
 + What JavaScript is (and isn't)
