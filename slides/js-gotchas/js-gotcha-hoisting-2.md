@@ -1,5 +1,5 @@
 #JavaScript "Gotchas"
-##Scoping
+##Hoisting
 ```
 var a = 23;
 console.log("Start 'a' =", a); //Start 'a' = 23
