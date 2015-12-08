@@ -4,21 +4,19 @@
 ```
 var num = 10,
     objA = { item: 7 },
-    objB = { item: 11 };
+    objB = { item: 12 };
 
 function changeStuff(a, b, c) {
   a = a + 5;
-  b.item = b.item + 3;
+  b.item = b.item + 4;
   c.item = c.item + ' extras';
 }
 
-num = 10;
-objA = { item: 7 };
-objB = { item: 11 };
-
 changeStuff(num, objA, objB);
 
-console.log("End =", num, objA, objB); //10, {item: 10}, {item: "11 extras"}
+console.log(num); //10
+console.log(objA); //Object {item: 11}
+console.log(objB); //Object {item: "12 extras"}
 ```
 
 Note:
